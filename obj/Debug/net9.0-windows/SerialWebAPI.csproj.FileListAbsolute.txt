@@ -1,0 +1,10 @@
+/Users/winfriedrothenberg/GitHub/SerialWebAPI/obj/Debug/net9.0-windows/SerialWebAPI.csproj.AssemblyReference.cache
+/Users/winfriedrothenberg/GitHub/SerialWebAPI/obj/Debug/net9.0-windows/Views/WebAPIServerControl.baml
+/Users/winfriedrothenberg/GitHub/SerialWebAPI/obj/Debug/net9.0-windows/Views/WebAPIServerControl.g.cs
+/Users/winfriedrothenberg/GitHub/SerialWebAPI/obj/Debug/net9.0-windows/SerialWebAPI_MarkupCompile.cache
+/Users/winfriedrothenberg/GitHub/SerialWebAPI/obj/Debug/net9.0-windows/SerialWebAPI.g.resources
+/Users/winfriedrothenberg/GitHub/SerialWebAPI/obj/Debug/net9.0-windows/SerialWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winfriedrothenberg/GitHub/SerialWebAPI/obj/Debug/net9.0-windows/SerialWebAPI.AssemblyInfoInputs.cache
+/Users/winfriedrothenberg/GitHub/SerialWebAPI/obj/Debug/net9.0-windows/SerialWebAPI.AssemblyInfo.cs
+/Users/winfriedrothenberg/GitHub/SerialWebAPI/obj/Debug/net9.0-windows/SerialWebAPI.csproj.CoreCompileInputs.cache
+/Users/winfriedrothenberg/GitHub/SerialWebAPI/obj/Debug/net9.0-windows/SerialWebAPI.sourcelink.json
