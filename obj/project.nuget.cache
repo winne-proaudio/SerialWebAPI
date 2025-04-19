@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3UHzeAtRJ4=",
+  "success": true,
+  "projectFilePath": "/Users/winfriedrothenberg/GitHub/SerialWebAPI/SerialWebAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.android-arm.runtime.native.system.io.ports/9.0.4/runtime.android-arm.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.android-arm64.runtime.native.system.io.ports/9.0.4/runtime.android-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.android-x64.runtime.native.system.io.ports/9.0.4/runtime.android-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.android-x86.runtime.native.system.io.ports/9.0.4/runtime.android-x86.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.linux-arm.runtime.native.system.io.ports/9.0.4/runtime.linux-arm.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.linux-arm64.runtime.native.system.io.ports/9.0.4/runtime.linux-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.linux-bionic-arm64.runtime.native.system.io.ports/9.0.4/runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.linux-bionic-x64.runtime.native.system.io.ports/9.0.4/runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.linux-musl-arm.runtime.native.system.io.ports/9.0.4/runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.linux-musl-arm64.runtime.native.system.io.ports/9.0.4/runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.linux-musl-x64.runtime.native.system.io.ports/9.0.4/runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.linux-x64.runtime.native.system.io.ports/9.0.4/runtime.linux-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.maccatalyst-arm64.runtime.native.system.io.ports/9.0.4/runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.maccatalyst-x64.runtime.native.system.io.ports/9.0.4/runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.native.system.io.ports/9.0.4/runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.osx-arm64.runtime.native.system.io.ports/9.0.4/runtime.osx-arm64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/runtime.osx-x64.runtime.native.system.io.ports/9.0.4/runtime.osx-x64.runtime.native.system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/system.io.ports/9.0.4/system.io.ports.9.0.4.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/winfriedrothenberg/.nuget/packages/microsoft.netcore.app.host.osx-x64/8.0.15/microsoft.netcore.app.host.osx-x64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
