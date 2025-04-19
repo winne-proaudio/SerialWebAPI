@@ -17,6 +17,6 @@ public class CommandController : ControllerBase
     public IActionResult Send([FromBody] CommandRequest request)
     {
         _serialService.SendCommand(request.Command);
-        return Ok("Command sent");
+        return Ok(request.Command + " Command sent");
     }
 }
