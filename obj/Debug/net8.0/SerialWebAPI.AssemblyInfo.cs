@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SerialWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9da759ba990f1375444067508bd55ecfd737f41d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfb2aa58c7e5eaffa3c9bab868f8c9b487ae4565")]
 [assembly: System.Reflection.AssemblyProductAttribute("SerialWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SerialWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
